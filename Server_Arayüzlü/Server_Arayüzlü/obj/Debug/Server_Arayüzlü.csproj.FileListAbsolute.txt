@@ -1,0 +1,10 @@
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\bin\Debug\Server_Arayüzlü.exe.config
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\bin\Debug\Server_Arayüzlü.exe
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\bin\Debug\Server_Arayüzlü.pdb
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\obj\Debug\Server_Arayüzlü.csproj.AssemblyReference.cache
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\obj\Debug\Server_Arayüzlü.Form1.resources
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\obj\Debug\Server_Arayüzlü.Properties.Resources.resources
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\obj\Debug\Server_Arayüzlü.csproj.GenerateResource.cache
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\obj\Debug\Server_Arayüzlü.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\obj\Debug\Server_Arayüzlü.exe
+C:\Users\Nazar\source\repos\Server_Arayüzlü\Server_Arayüzlü\obj\Debug\Server_Arayüzlü.pdb
