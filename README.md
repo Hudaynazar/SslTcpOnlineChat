@@ -103,10 +103,6 @@ Bu proje eğitim amaçlı geliştirilmiştir. Dilerseniz kendi projelerinize ent
 ## İletişim
 Sorularınız olursa (https://api.whatsapp.com/send/?phone=%2B905447722293&text&type=phone_number&app_absent=0) sekmesinden yazabilirsiniz.
 
-## Ekstra Notlar
-.gitignore dosyasına şu satırları eklemeyi unutma:
-cert.pfx
-
 ## Not
 Sunucuya uzaktan bağlanmak istiyorsan bilgisayarın açık kalmalı ve güvenlik duvarı gelen bağlantıları engellememeli.
 
