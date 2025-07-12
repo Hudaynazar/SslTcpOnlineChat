@@ -24,14 +24,14 @@ namespace Server_Arayüzlü
         static public void StartServer()
         {
             IPAddress ip = IPAddress.Any;
-            int port = 5000;
+            int port = XXXX; // İZİN VERDİĞİNİZ PORTU
             try
             {
                 TcpListener server = new TcpListener(ip, port);
                 server.Start();
                 Form1.Instance?.AppendTextSafe("Sunucu başlatıldı. Bağlantı bekleniyor...");
 
-                X509Certificate2 certificate = new X509Certificate2("cert.pfx", "Komputer022");
+                X509Certificate2 certificate = new X509Certificate2("cert.pfx", "ŞİFRENİZ"); // CERT.PFX İN ŞİFRESİ
 
                 while (true)
                 {
